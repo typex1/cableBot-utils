@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 15 13:35:25 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015e-8552-6517-0000009d2fd8 
+on database directory memory:/home/pi/digitale2017/git/cableBot/pi4j/testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@1e6f5c3 
+Loaded from jar:file:/home/pi/cableBot-0.0.1-withoutTomcatEmbed.jar!/BOOT-INF/lib/derby-10.13.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/home/pi/digitale2017/git/cableBot/pi4j
+os.name=Linux
+os.arch=arm
+os.version=4.1.19+
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
