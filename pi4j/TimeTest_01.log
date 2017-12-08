@@ -1,0 +1,4800 @@
+check no. 1: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,556s
+user	0m0,430s
+sys	0m0,080s
+check no. 2: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,535s
+user	0m0,420s
+sys	0m0,060s
+check no. 3: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,523s
+user	0m0,420s
+sys	0m0,050s
+check no. 4: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,525s
+user	0m0,410s
+sys	0m0,060s
+check no. 5: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,521s
+user	0m0,410s
+sys	0m0,050s
+check no. 6: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,523s
+user	0m0,370s
+sys	0m0,090s
+check no. 7: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,518s
+user	0m0,400s
+sys	0m0,060s
+check no. 8: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,520s
+user	0m0,370s
+sys	0m0,090s
+check no. 9: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,517s
+user	0m0,430s
+sys	0m0,040s
+check no. 10: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,559s
+user	0m0,450s
+sys	0m0,030s
+check no. 11: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,551s
+user	0m0,470s
+sys	0m0,030s
+check no. 12: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,531s
+user	0m0,400s
+sys	0m0,070s
+check no. 13: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,527s
+user	0m0,400s
+sys	0m0,070s
+check no. 14: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,529s
+user	0m0,370s
+sys	0m0,090s
+check no. 15: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,523s
+user	0m0,410s
+sys	0m0,060s
+check no. 16: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,566s
+user	0m0,440s
+sys	0m0,070s
+check no. 17: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,539s
+user	0m0,390s
+sys	0m0,100s
+check no. 18: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,522s
+user	0m0,400s
+sys	0m0,070s
+check no. 19: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,530s
+user	0m0,430s
+sys	0m0,040s
+check no. 20: 1 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,521s
+user	0m0,390s
+sys	0m0,070s
+check no. 1: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,520s
+user	0m0,370s
+sys	0m0,090s
+check no. 2: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,534s
+user	0m0,400s
+sys	0m0,080s
+check no. 3: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,544s
+user	0m0,390s
+sys	0m0,090s
+check no. 4: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,537s
+user	0m0,440s
+sys	0m0,040s
+check no. 5: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,532s
+user	0m0,440s
+sys	0m0,040s
+check no. 6: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,546s
+user	0m0,380s
+sys	0m0,100s
+check no. 7: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,551s
+user	0m0,400s
+sys	0m0,080s
+check no. 8: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,533s
+user	0m0,440s
+sys	0m0,040s
+check no. 9: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,529s
+user	0m0,430s
+sys	0m0,050s
+check no. 10: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,537s
+user	0m0,400s
+sys	0m0,080s
+check no. 11: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,532s
+user	0m0,420s
+sys	0m0,050s
+check no. 12: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,535s
+user	0m0,410s
+sys	0m0,070s
+check no. 13: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,537s
+user	0m0,420s
+sys	0m0,060s
+check no. 14: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,538s
+user	0m0,420s
+sys	0m0,070s
+check no. 15: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,536s
+user	0m0,410s
+sys	0m0,070s
+check no. 16: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,535s
+user	0m0,420s
+sys	0m0,060s
+check no. 17: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,538s
+user	0m0,400s
+sys	0m0,080s
+check no. 18: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,529s
+user	0m0,410s
+sys	0m0,060s
+check no. 19: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,534s
+user	0m0,440s
+sys	0m0,040s
+check no. 20: 2 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,530s
+user	0m0,400s
+sys	0m0,080s
+check no. 1: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,561s
+user	0m0,440s
+sys	0m0,050s
+check no. 2: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,531s
+user	0m0,370s
+sys	0m0,110s
+check no. 3: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,563s
+user	0m0,470s
+sys	0m0,020s
+check no. 4: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,559s
+user	0m0,410s
+sys	0m0,070s
+check no. 5: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,535s
+user	0m0,400s
+sys	0m0,070s
+check no. 6: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,541s
+user	0m0,390s
+sys	0m0,090s
+check no. 7: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,541s
+user	0m0,460s
+sys	0m0,020s
+check no. 8: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,553s
+user	0m0,430s
+sys	0m0,050s
+check no. 9: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,537s
+user	0m0,410s
+sys	0m0,060s
+check no. 10: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,545s
+user	0m0,410s
+sys	0m0,070s
+check no. 11: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,533s
+user	0m0,390s
+sys	0m0,090s
+check no. 12: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,534s
+user	0m0,400s
+sys	0m0,080s
+check no. 13: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,545s
+user	0m0,420s
+sys	0m0,060s
+check no. 14: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,545s
+user	0m0,430s
+sys	0m0,050s
+check no. 15: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,542s
+user	0m0,390s
+sys	0m0,090s
+check no. 16: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,544s
+user	0m0,400s
+sys	0m0,080s
+check no. 17: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,551s
+user	0m0,370s
+sys	0m0,100s
+check no. 18: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,543s
+user	0m0,450s
+sys	0m0,030s
+check no. 19: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,552s
+user	0m0,430s
+sys	0m0,050s
+check no. 20: 3 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,537s
+user	0m0,380s
+sys	0m0,100s
+check no. 1: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,542s
+user	0m0,380s
+sys	0m0,100s
+check no. 2: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,547s
+user	0m0,410s
+sys	0m0,070s
+check no. 3: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,548s
+user	0m0,430s
+sys	0m0,060s
+check no. 4: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,541s
+user	0m0,410s
+sys	0m0,070s
+check no. 5: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,541s
+user	0m0,420s
+sys	0m0,060s
+check no. 6: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,546s
+user	0m0,380s
+sys	0m0,100s
+check no. 7: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,531s
+user	0m0,450s
+sys	0m0,030s
+check no. 8: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,552s
+user	0m0,450s
+sys	0m0,040s
+check no. 9: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,543s
+user	0m0,420s
+sys	0m0,060s
+check no. 10: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,540s
+user	0m0,420s
+sys	0m0,060s
+check no. 11: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,540s
+user	0m0,410s
+sys	0m0,070s
+check no. 12: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,545s
+user	0m0,430s
+sys	0m0,050s
+check no. 13: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,557s
+user	0m0,450s
+sys	0m0,030s
+check no. 14: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,535s
+user	0m0,390s
+sys	0m0,090s
+check no. 15: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,539s
+user	0m0,410s
+sys	0m0,070s
+check no. 16: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,573s
+user	0m0,390s
+sys	0m0,120s
+check no. 17: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,569s
+user	0m0,440s
+sys	0m0,070s
+check no. 18: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,562s
+user	0m0,450s
+sys	0m0,050s
+check no. 19: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,567s
+user	0m0,470s
+sys	0m0,040s
+check no. 20: 4 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,561s
+user	0m0,410s
+sys	0m0,090s
+check no. 1: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,573s
+user	0m0,470s
+sys	0m0,040s
+check no. 2: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,558s
+user	0m0,460s
+sys	0m0,040s
+check no. 3: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,545s
+user	0m0,360s
+sys	0m0,120s
+check no. 4: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,538s
+user	0m0,420s
+sys	0m0,070s
+check no. 5: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,549s
+user	0m0,420s
+sys	0m0,070s
+check no. 6: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,540s
+user	0m0,410s
+sys	0m0,070s
+check no. 7: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,547s
+user	0m0,400s
+sys	0m0,090s
+check no. 8: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,545s
+user	0m0,430s
+sys	0m0,050s
+check no. 9: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,536s
+user	0m0,320s
+sys	0m0,160s
+check no. 10: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,549s
+user	0m0,400s
+sys	0m0,090s
+check no. 11: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,545s
+user	0m0,430s
+sys	0m0,060s
+check no. 12: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,542s
+user	0m0,420s
+sys	0m0,070s
+check no. 13: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,541s
+user	0m0,380s
+sys	0m0,100s
+check no. 14: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,543s
+user	0m0,410s
+sys	0m0,070s
+check no. 15: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,542s
+user	0m0,430s
+sys	0m0,050s
+check no. 16: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,542s
+user	0m0,390s
+sys	0m0,090s
+check no. 17: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,545s
+user	0m0,350s
+sys	0m0,130s
+check no. 18: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,500s
+user	0m0,370s
+sys	0m0,060s
+check no. 19: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,570s
+user	0m0,430s
+sys	0m0,070s
+check no. 20: 5 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,568s
+user	0m0,450s
+sys	0m0,060s
+check no. 1: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,535s
+user	0m0,420s
+sys	0m0,060s
+check no. 2: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,545s
+user	0m0,420s
+sys	0m0,070s
+check no. 3: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,557s
+user	0m0,400s
+sys	0m0,090s
+check no. 4: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,543s
+user	0m0,410s
+sys	0m0,070s
+check no. 5: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,548s
+user	0m0,400s
+sys	0m0,090s
+check no. 6: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,552s
+user	0m0,430s
+sys	0m0,060s
+check no. 7: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,559s
+user	0m0,390s
+sys	0m0,100s
+check no. 8: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,541s
+user	0m0,410s
+sys	0m0,050s
+check no. 9: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,563s
+user	0m0,450s
+sys	0m0,060s
+check no. 10: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,546s
+user	0m0,380s
+sys	0m0,100s
+check no. 11: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,523s
+user	0m0,420s
+sys	0m0,050s
+check no. 12: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,551s
+user	0m0,400s
+sys	0m0,090s
+check no. 13: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,551s
+user	0m0,410s
+sys	0m0,080s
+check no. 14: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,543s
+user	0m0,410s
+sys	0m0,070s
+check no. 15: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,560s
+user	0m0,440s
+sys	0m0,050s
+check no. 16: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,564s
+user	0m0,420s
+sys	0m0,080s
+check no. 17: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,548s
+user	0m0,450s
+sys	0m0,040s
+check no. 18: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,561s
+user	0m0,430s
+sys	0m0,060s
+check no. 19: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,546s
+user	0m0,430s
+sys	0m0,050s
+check no. 20: 6 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,573s
+user	0m0,430s
+sys	0m0,080s
+check no. 1: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,574s
+user	0m0,440s
+sys	0m0,070s
+check no. 2: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,592s
+user	0m0,460s
+sys	0m0,050s
+check no. 3: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,566s
+user	0m0,420s
+sys	0m0,070s
+check no. 4: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,571s
+user	0m0,450s
+sys	0m0,040s
+check no. 5: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,553s
+user	0m0,420s
+sys	0m0,080s
+check no. 6: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,565s
+user	0m0,410s
+sys	0m0,080s
+check no. 7: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,554s
+user	0m0,410s
+sys	0m0,080s
+check no. 8: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,557s
+user	0m0,440s
+sys	0m0,050s
+check no. 9: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,554s
+user	0m0,420s
+sys	0m0,070s
+check no. 10: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,551s
+user	0m0,420s
+sys	0m0,070s
+check no. 11: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,576s
+user	0m0,390s
+sys	0m0,130s
+check no. 12: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,575s
+user	0m0,410s
+sys	0m0,110s
+check no. 13: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,525s
+user	0m0,430s
+sys	0m0,040s
+check no. 14: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,550s
+user	0m0,390s
+sys	0m0,100s
+check no. 15: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,524s
+user	0m0,390s
+sys	0m0,070s
+check no. 16: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,551s
+user	0m0,410s
+sys	0m0,080s
+check no. 17: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,550s
+user	0m0,420s
+sys	0m0,070s
+check no. 18: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,545s
+user	0m0,420s
+sys	0m0,060s
+check no. 19: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,549s
+user	0m0,410s
+sys	0m0,080s
+check no. 20: 7 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,554s
+user	0m0,430s
+sys	0m0,070s
+check no. 1: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,564s
+user	0m0,430s
+sys	0m0,070s
+check no. 2: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,552s
+user	0m0,420s
+sys	0m0,070s
+check no. 3: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,522s
+user	0m0,400s
+sys	0m0,070s
+check no. 4: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,569s
+user	0m0,440s
+sys	0m0,070s
+check no. 5: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,531s
+user	0m0,400s
+sys	0m0,070s
+check no. 6: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,545s
+user	0m0,400s
+sys	0m0,090s
+check no. 7: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,529s
+user	0m0,420s
+sys	0m0,050s
+check no. 8: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,559s
+user	0m0,450s
+sys	0m0,050s
+check no. 9: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,574s
+user	0m0,450s
+sys	0m0,070s
+check no. 10: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,521s
+user	0m0,380s
+sys	0m0,090s
+check no. 11: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,555s
+user	0m0,390s
+sys	0m0,110s
+check no. 12: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,549s
+user	0m0,430s
+sys	0m0,060s
+check no. 13: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,572s
+user	0m0,380s
+sys	0m0,130s
+check no. 14: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,548s
+user	0m0,410s
+sys	0m0,080s
+check no. 15: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,568s
+user	0m0,460s
+sys	0m0,050s
+check no. 16: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,543s
+user	0m0,450s
+sys	0m0,040s
+check no. 17: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,557s
+user	0m0,420s
+sys	0m0,070s
+check no. 18: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,559s
+user	0m0,440s
+sys	0m0,050s
+check no. 19: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,544s
+user	0m0,430s
+sys	0m0,060s
+check no. 20: 8 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,554s
+user	0m0,440s
+sys	0m0,060s
+check no. 1: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,537s
+user	0m0,390s
+sys	0m0,090s
+check no. 2: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,575s
+user	0m0,400s
+sys	0m0,110s
+check no. 3: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,524s
+user	0m0,380s
+sys	0m0,090s
+check no. 4: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,554s
+user	0m0,400s
+sys	0m0,090s
+check no. 5: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,555s
+user	0m0,410s
+sys	0m0,080s
+check no. 6: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,549s
+user	0m0,450s
+sys	0m0,040s
+check no. 7: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,543s
+user	0m0,370s
+sys	0m0,110s
+check no. 8: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,551s
+user	0m0,400s
+sys	0m0,090s
+check no. 9: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,550s
+user	0m0,430s
+sys	0m0,060s
+check no. 10: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,548s
+user	0m0,420s
+sys	0m0,070s
+check no. 11: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,566s
+user	0m0,460s
+sys	0m0,040s
+check no. 12: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,559s
+user	0m0,430s
+sys	0m0,060s
+check no. 13: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,545s
+user	0m0,460s
+sys	0m0,030s
+check no. 14: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,569s
+user	0m0,430s
+sys	0m0,080s
+check no. 15: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,530s
+user	0m0,400s
+sys	0m0,070s
+check no. 16: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,558s
+user	0m0,400s
+sys	0m0,100s
+check no. 17: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,567s
+user	0m0,480s
+sys	0m0,030s
+check no. 18: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,529s
+user	0m0,380s
+sys	0m0,090s
+check no. 19: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,552s
+user	0m0,430s
+sys	0m0,050s
+check no. 20: 9 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,568s
+user	0m0,390s
+sys	0m0,120s
+check no. 1: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,534s
+user	0m0,390s
+sys	0m0,080s
+check no. 2: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,554s
+user	0m0,420s
+sys	0m0,080s
+check no. 3: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,558s
+user	0m0,430s
+sys	0m0,060s
+check no. 4: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,529s
+user	0m0,440s
+sys	0m0,030s
+check no. 5: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,554s
+user	0m0,460s
+sys	0m0,030s
+check no. 6: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,557s
+user	0m0,400s
+sys	0m0,090s
+check no. 7: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,571s
+user	0m0,440s
+sys	0m0,070s
+check no. 8: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,534s
+user	0m0,380s
+sys	0m0,090s
+check no. 9: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,573s
+user	0m0,460s
+sys	0m0,050s
+check no. 10: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,533s
+user	0m0,410s
+sys	0m0,070s
+check no. 11: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,572s
+user	0m0,410s
+sys	0m0,090s
+check no. 12: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,558s
+user	0m0,430s
+sys	0m0,070s
+check no. 13: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,560s
+user	0m0,450s
+sys	0m0,040s
+check no. 14: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,556s
+user	0m0,450s
+sys	0m0,040s
+check no. 15: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,556s
+user	0m0,420s
+sys	0m0,070s
+check no. 16: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,556s
+user	0m0,370s
+sys	0m0,130s
+check no. 17: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,559s
+user	0m0,440s
+sys	0m0,060s
+check no. 18: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,557s
+user	0m0,450s
+sys	0m0,050s
+check no. 19: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,552s
+user	0m0,380s
+sys	0m0,110s
+check no. 20: 10 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,570s
+user	0m0,410s
+sys	0m0,100s
+check no. 1: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,530s
+user	0m0,350s
+sys	0m0,120s
+check no. 2: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,577s
+user	0m0,460s
+sys	0m0,060s
+check no. 3: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,541s
+user	0m0,390s
+sys	0m0,080s
+check no. 4: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,573s
+user	0m0,430s
+sys	0m0,070s
+check no. 5: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,579s
+user	0m0,450s
+sys	0m0,060s
+check no. 6: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,557s
+user	0m0,430s
+sys	0m0,070s
+check no. 7: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,555s
+user	0m0,400s
+sys	0m0,090s
+check no. 8: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,563s
+user	0m0,410s
+sys	0m0,090s
+check no. 9: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,553s
+user	0m0,440s
+sys	0m0,050s
+check no. 10: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,562s
+user	0m0,430s
+sys	0m0,070s
+check no. 11: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,554s
+user	0m0,400s
+sys	0m0,090s
+check no. 12: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,537s
+user	0m0,440s
+sys	0m0,030s
+check no. 13: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,561s
+user	0m0,450s
+sys	0m0,050s
+check no. 14: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,561s
+user	0m0,400s
+sys	0m0,100s
+check no. 15: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,553s
+user	0m0,410s
+sys	0m0,080s
+check no. 16: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,532s
+user	0m0,410s
+sys	0m0,060s
+check no. 17: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,530s
+user	0m0,410s
+sys	0m0,060s
+check no. 18: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,530s
+user	0m0,400s
+sys	0m0,070s
+check no. 19: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,569s
+user	0m0,450s
+sys	0m0,050s
+check no. 20: 11 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,546s
+user	0m0,400s
+sys	0m0,090s
+check no. 1: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,558s
+user	0m0,400s
+sys	0m0,100s
+check no. 2: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,555s
+user	0m0,440s
+sys	0m0,060s
+check no. 3: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,538s
+user	0m0,400s
+sys	0m0,070s
+check no. 4: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,560s
+user	0m0,430s
+sys	0m0,070s
+check no. 5: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,530s
+user	0m0,370s
+sys	0m0,100s
+check no. 6: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,564s
+user	0m0,460s
+sys	0m0,050s
+check no. 7: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,553s
+user	0m0,410s
+sys	0m0,090s
+check no. 8: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,537s
+user	0m0,410s
+sys	0m0,060s
+check no. 9: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,561s
+user	0m0,420s
+sys	0m0,080s
+check no. 10: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,535s
+user	0m0,430s
+sys	0m0,050s
+check no. 11: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,583s
+user	0m0,460s
+sys	0m0,060s
+check no. 12: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,571s
+user	0m0,390s
+sys	0m0,120s
+check no. 13: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,540s
+user	0m0,390s
+sys	0m0,090s
+check no. 14: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,559s
+user	0m0,420s
+sys	0m0,080s
+check no. 15: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,532s
+user	0m0,420s
+sys	0m0,050s
+check no. 16: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,561s
+user	0m0,410s
+sys	0m0,090s
+check no. 17: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,559s
+user	0m0,400s
+sys	0m0,100s
+check no. 18: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,561s
+user	0m0,480s
+sys	0m0,030s
+check no. 19: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,560s
+user	0m0,460s
+sys	0m0,050s
+check no. 20: 12 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,559s
+user	0m0,420s
+sys	0m0,080s
+check no. 1: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,561s
+user	0m0,420s
+sys	0m0,080s
+check no. 2: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,538s
+user	0m0,380s
+sys	0m0,090s
+check no. 3: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,564s
+user	0m0,470s
+sys	0m0,030s
+check no. 4: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,533s
+user	0m0,440s
+sys	0m0,040s
+check no. 5: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,561s
+user	0m0,410s
+sys	0m0,090s
+check no. 6: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,562s
+user	0m0,400s
+sys	0m0,100s
+check no. 7: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,536s
+user	0m0,390s
+sys	0m0,090s
+check no. 8: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,561s
+user	0m0,430s
+sys	0m0,070s
+check no. 9: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,561s
+user	0m0,400s
+sys	0m0,100s
+check no. 10: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,561s
+user	0m0,390s
+sys	0m0,110s
+check no. 11: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,560s
+user	0m0,450s
+sys	0m0,050s
+check no. 12: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,555s
+user	0m0,390s
+sys	0m0,110s
+check no. 13: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,558s
+user	0m0,420s
+sys	0m0,080s
+check no. 14: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,572s
+user	0m0,460s
+sys	0m0,040s
+check no. 15: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,543s
+user	0m0,440s
+sys	0m0,070s
+check no. 16: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,537s
+user	0m0,430s
+sys	0m0,050s
+check no. 17: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,558s
+user	0m0,430s
+sys	0m0,070s
+check no. 18: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,567s
+user	0m0,450s
+sys	0m0,060s
+check no. 19: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,543s
+user	0m0,410s
+sys	0m0,080s
+check no. 20: 13 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,559s
+user	0m0,440s
+sys	0m0,060s
+check no. 1: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,544s
+user	0m0,440s
+sys	0m0,050s
+check no. 2: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,558s
+user	0m0,400s
+sys	0m0,100s
+check no. 3: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,550s
+user	0m0,430s
+sys	0m0,070s
+check no. 4: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,539s
+user	0m0,420s
+sys	0m0,070s
+check no. 5: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,567s
+user	0m0,380s
+sys	0m0,130s
+check no. 6: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,556s
+user	0m0,430s
+sys	0m0,070s
+check no. 7: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,559s
+user	0m0,440s
+sys	0m0,060s
+check no. 8: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,564s
+user	0m0,420s
+sys	0m0,090s
+check no. 9: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,561s
+user	0m0,420s
+sys	0m0,080s
+check no. 10: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,561s
+user	0m0,420s
+sys	0m0,080s
+check no. 11: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,566s
+user	0m0,440s
+sys	0m0,070s
+check no. 12: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,542s
+user	0m0,400s
+sys	0m0,100s
+check no. 13: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,559s
+user	0m0,410s
+sys	0m0,090s
+check no. 14: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,563s
+user	0m0,450s
+sys	0m0,050s
+check no. 15: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,562s
+user	0m0,420s
+sys	0m0,090s
+check no. 16: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,552s
+user	0m0,400s
+sys	0m0,080s
+check no. 17: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,564s
+user	0m0,350s
+sys	0m0,150s
+check no. 18: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,545s
+user	0m0,420s
+sys	0m0,060s
+check no. 19: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,566s
+user	0m0,470s
+sys	0m0,040s
+check no. 20: 14 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,567s
+user	0m0,400s
+sys	0m0,100s
+check no. 1: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,566s
+user	0m0,400s
+sys	0m0,100s
+check no. 2: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,550s
+user	0m0,420s
+sys	0m0,060s
+check no. 3: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,540s
+user	0m0,400s
+sys	0m0,080s
+check no. 4: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,567s
+user	0m0,430s
+sys	0m0,070s
+check no. 5: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,565s
+user	0m0,440s
+sys	0m0,070s
+check no. 6: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,564s
+user	0m0,470s
+sys	0m0,040s
+check no. 7: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,568s
+user	0m0,480s
+sys	0m0,030s
+check no. 8: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,563s
+user	0m0,470s
+sys	0m0,040s
+check no. 9: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,575s
+user	0m0,430s
+sys	0m0,090s
+check no. 10: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,574s
+user	0m0,450s
+sys	0m0,070s
+check no. 11: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,537s
+user	0m0,400s
+sys	0m0,080s
+check no. 12: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,563s
+user	0m0,460s
+sys	0m0,040s
+check no. 13: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,565s
+user	0m0,430s
+sys	0m0,080s
+check no. 14: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,568s
+user	0m0,450s
+sys	0m0,060s
+check no. 15: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,538s
+user	0m0,410s
+sys	0m0,080s
+check no. 16: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,564s
+user	0m0,450s
+sys	0m0,070s
+check no. 17: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,542s
+user	0m0,410s
+sys	0m0,080s
+check no. 18: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,564s
+user	0m0,380s
+sys	0m0,130s
+check no. 19: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,570s
+user	0m0,460s
+sys	0m0,060s
+check no. 20: 15 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,566s
+user	0m0,430s
+sys	0m0,080s
+check no. 1: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,551s
+user	0m0,400s
+sys	0m0,110s
+check no. 2: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,561s
+user	0m0,420s
+sys	0m0,090s
+check no. 3: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,559s
+user	0m0,420s
+sys	0m0,080s
+check no. 4: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,534s
+user	0m0,420s
+sys	0m0,060s
+check no. 5: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,550s
+user	0m0,450s
+sys	0m0,040s
+check no. 6: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,536s
+user	0m0,410s
+sys	0m0,070s
+check no. 7: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,580s
+user	0m0,420s
+sys	0m0,100s
+check no. 8: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,539s
+user	0m0,400s
+sys	0m0,090s
+check no. 9: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,534s
+user	0m0,410s
+sys	0m0,080s
+check no. 10: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,570s
+user	0m0,420s
+sys	0m0,090s
+check no. 11: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,559s
+user	0m0,420s
+sys	0m0,090s
+check no. 12: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,568s
+user	0m0,400s
+sys	0m0,110s
+check no. 13: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,536s
+user	0m0,380s
+sys	0m0,110s
+check no. 14: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,537s
+user	0m0,370s
+sys	0m0,110s
+check no. 15: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,539s
+user	0m0,380s
+sys	0m0,110s
+check no. 16: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,566s
+user	0m0,420s
+sys	0m0,090s
+check no. 17: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,536s
+user	0m0,400s
+sys	0m0,090s
+check no. 18: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,562s
+user	0m0,430s
+sys	0m0,080s
+check no. 19: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,560s
+user	0m0,440s
+sys	0m0,070s
+check no. 20: 16 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,533s
+user	0m0,400s
+sys	0m0,080s
+check no. 1: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,568s
+user	0m0,430s
+sys	0m0,100s
+check no. 2: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,536s
+user	0m0,450s
+sys	0m0,030s
+check no. 3: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,572s
+user	0m0,420s
+sys	0m0,100s
+check no. 4: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,543s
+user	0m0,420s
+sys	0m0,080s
+check no. 5: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,541s
+user	0m0,420s
+sys	0m0,080s
+check no. 6: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,569s
+user	0m0,440s
+sys	0m0,090s
+check no. 7: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,543s
+user	0m0,410s
+sys	0m0,080s
+check no. 8: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,561s
+user	0m0,460s
+sys	0m0,050s
+check no. 9: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,549s
+user	0m0,410s
+sys	0m0,100s
+check no. 10: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,565s
+user	0m0,460s
+sys	0m0,060s
+check no. 11: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,545s
+user	0m0,450s
+sys	0m0,040s
+check no. 12: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,565s
+user	0m0,430s
+sys	0m0,090s
+check no. 13: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,564s
+user	0m0,460s
+sys	0m0,060s
+check no. 14: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,559s
+user	0m0,430s
+sys	0m0,080s
+check no. 15: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,571s
+user	0m0,450s
+sys	0m0,070s
+check no. 16: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,551s
+user	0m0,440s
+sys	0m0,060s
+check no. 17: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,568s
+user	0m0,430s
+sys	0m0,100s
+check no. 18: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,540s
+user	0m0,400s
+sys	0m0,090s
+check no. 19: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,565s
+user	0m0,480s
+sys	0m0,040s
+check no. 20: 17 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,566s
+user	0m0,450s
+sys	0m0,070s
+check no. 1: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,547s
+user	0m0,420s
+sys	0m0,070s
+check no. 2: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,550s
+user	0m0,420s
+sys	0m0,080s
+check no. 3: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,574s
+user	0m0,440s
+sys	0m0,090s
+check no. 4: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,542s
+user	0m0,440s
+sys	0m0,060s
+check no. 5: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,538s
+user	0m0,400s
+sys	0m0,090s
+check no. 6: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,617s
+user	0m0,510s
+sys	0m0,060s
+check no. 7: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,569s
+user	0m0,430s
+sys	0m0,090s
+check no. 8: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,565s
+user	0m0,440s
+sys	0m0,080s
+check no. 9: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,570s
+user	0m0,440s
+sys	0m0,080s
+check no. 10: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,571s
+user	0m0,460s
+sys	0m0,060s
+check no. 11: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,546s
+user	0m0,430s
+sys	0m0,060s
+check no. 12: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,545s
+user	0m0,420s
+sys	0m0,070s
+check no. 13: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,549s
+user	0m0,400s
+sys	0m0,100s
+check no. 14: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,565s
+user	0m0,480s
+sys	0m0,040s
+check no. 15: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,543s
+user	0m0,430s
+sys	0m0,060s
+check no. 16: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,572s
+user	0m0,460s
+sys	0m0,070s
+check no. 17: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,567s
+user	0m0,410s
+sys	0m0,110s
+check no. 18: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,570s
+user	0m0,470s
+sys	0m0,060s
+check no. 19: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,547s
+user	0m0,470s
+sys	0m0,030s
+check no. 20: 18 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,617s
+user	0m0,510s
+sys	0m0,060s
+check no. 1: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,566s
+user	0m0,460s
+sys	0m0,060s
+check no. 2: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,569s
+user	0m0,430s
+sys	0m0,100s
+check no. 3: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,569s
+user	0m0,450s
+sys	0m0,070s
+check no. 4: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,541s
+user	0m0,410s
+sys	0m0,090s
+check no. 5: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,545s
+user	0m0,420s
+sys	0m0,080s
+check no. 6: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,548s
+user	0m0,410s
+sys	0m0,100s
+check no. 7: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,565s
+user	0m0,450s
+sys	0m0,070s
+check no. 8: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,543s
+user	0m0,390s
+sys	0m0,100s
+check no. 9: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,570s
+user	0m0,460s
+sys	0m0,060s
+check no. 10: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,544s
+user	0m0,440s
+sys	0m0,050s
+check no. 11: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,576s
+user	0m0,440s
+sys	0m0,090s
+check no. 12: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,550s
+user	0m0,430s
+sys	0m0,080s
+check no. 13: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,578s
+user	0m0,470s
+sys	0m0,070s
+check no. 14: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,531s
+user	0m0,410s
+sys	0m0,080s
+check no. 15: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,525s
+user	0m0,410s
+sys	0m0,070s
+check no. 16: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,531s
+user	0m0,410s
+sys	0m0,080s
+check no. 17: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,573s
+user	0m0,450s
+sys	0m0,080s
+check no. 18: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,544s
+user	0m0,420s
+sys	0m0,090s
+check no. 19: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,568s
+user	0m0,460s
+sys	0m0,060s
+check no. 20: 19 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,544s
+user	0m0,410s
+sys	0m0,080s
+check no. 1: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,575s
+user	0m0,410s
+sys	0m0,120s
+check no. 2: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,572s
+user	0m0,440s
+sys	0m0,080s
+check no. 3: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,547s
+user	0m0,430s
+sys	0m0,070s
+check no. 4: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,555s
+user	0m0,440s
+sys	0m0,070s
+check no. 5: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,545s
+user	0m0,410s
+sys	0m0,080s
+check no. 6: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,549s
+user	0m0,450s
+sys	0m0,060s
+check no. 7: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,551s
+user	0m0,450s
+sys	0m0,050s
+check no. 8: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,562s
+user	0m0,470s
+sys	0m0,050s
+check no. 9: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,553s
+user	0m0,440s
+sys	0m0,070s
+check no. 10: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,541s
+user	0m0,400s
+sys	0m0,090s
+check no. 11: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,574s
+user	0m0,470s
+sys	0m0,050s
+check no. 12: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,544s
+user	0m0,440s
+sys	0m0,060s
+check no. 13: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,574s
+user	0m0,470s
+sys	0m0,060s
+check no. 14: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,545s
+user	0m0,450s
+sys	0m0,060s
+check no. 15: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,578s
+user	0m0,450s
+sys	0m0,080s
+check no. 16: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,552s
+user	0m0,420s
+sys	0m0,090s
+check no. 17: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,574s
+user	0m0,440s
+sys	0m0,090s
+check no. 18: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,575s
+user	0m0,460s
+sys	0m0,070s
+check no. 19: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,548s
+user	0m0,420s
+sys	0m0,080s
+check no. 20: 20 milliseconds Thread.sleep
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,541s
+user	0m0,420s
+sys	0m0,070s
+check no. 1: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,553s
+user	0m0,460s
+sys	0m0,040s
+check no. 2: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,536s
+user	0m0,430s
+sys	0m0,050s
+check no. 3: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,527s
+user	0m0,430s
+sys	0m0,040s
+check no. 4: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,530s
+user	0m0,390s
+sys	0m0,080s
+check no. 5: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,519s
+user	0m0,410s
+sys	0m0,060s
+check no. 6: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,524s
+user	0m0,370s
+sys	0m0,100s
+check no. 7: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,517s
+user	0m0,410s
+sys	0m0,050s
+check no. 8: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,519s
+user	0m0,430s
+sys	0m0,040s
+check no. 9: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,523s
+user	0m0,430s
+sys	0m0,040s
+check no. 10: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,524s
+user	0m0,390s
+sys	0m0,090s
+check no. 11: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,514s
+user	0m0,360s
+sys	0m0,100s
+check no. 12: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,515s
+user	0m0,420s
+sys	0m0,040s
+check no. 13: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,517s
+user	0m0,410s
+sys	0m0,050s
+check no. 14: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,509s
+user	0m0,410s
+sys	0m0,050s
+check no. 15: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,513s
+user	0m0,390s
+sys	0m0,070s
+check no. 16: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,517s
+user	0m0,410s
+sys	0m0,050s
+check no. 17: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,540s
+user	0m0,400s
+sys	0m0,060s
+check no. 18: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,566s
+user	0m0,460s
+sys	0m0,060s
+check no. 19: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,545s
+user	0m0,440s
+sys	0m0,050s
+check no. 20: 1 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m2,532s
+user	0m0,390s
+sys	0m0,080s
+check no. 1: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,530s
+user	0m0,400s
+sys	0m0,070s
+check no. 2: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,529s
+user	0m0,440s
+sys	0m0,040s
+check no. 3: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,536s
+user	0m0,430s
+sys	0m0,050s
+check no. 4: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,525s
+user	0m0,430s
+sys	0m0,050s
+check no. 5: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,534s
+user	0m0,410s
+sys	0m0,070s
+check no. 6: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,540s
+user	0m0,410s
+sys	0m0,080s
+check no. 7: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,533s
+user	0m0,390s
+sys	0m0,090s
+check no. 8: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,533s
+user	0m0,450s
+sys	0m0,030s
+check no. 9: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,530s
+user	0m0,400s
+sys	0m0,080s
+check no. 10: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,538s
+user	0m0,440s
+sys	0m0,050s
+check no. 11: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,535s
+user	0m0,430s
+sys	0m0,050s
+check no. 12: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,564s
+user	0m0,410s
+sys	0m0,060s
+check no. 13: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,558s
+user	0m0,440s
+sys	0m0,070s
+check no. 14: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,552s
+user	0m0,430s
+sys	0m0,070s
+check no. 15: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,559s
+user	0m0,460s
+sys	0m0,050s
+check no. 16: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,558s
+user	0m0,430s
+sys	0m0,070s
+check no. 17: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,560s
+user	0m0,430s
+sys	0m0,070s
+check no. 18: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,535s
+user	0m0,430s
+sys	0m0,050s
+check no. 19: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,534s
+user	0m0,430s
+sys	0m0,050s
+check no. 20: 2 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m4,537s
+user	0m0,330s
+sys	0m0,150s
+check no. 1: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,549s
+user	0m0,400s
+sys	0m0,090s
+check no. 2: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,530s
+user	0m0,380s
+sys	0m0,100s
+check no. 3: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,544s
+user	0m0,390s
+sys	0m0,100s
+check no. 4: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,533s
+user	0m0,440s
+sys	0m0,040s
+check no. 5: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,538s
+user	0m0,410s
+sys	0m0,070s
+check no. 6: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,530s
+user	0m0,370s
+sys	0m0,110s
+check no. 7: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,535s
+user	0m0,450s
+sys	0m0,030s
+check no. 8: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,543s
+user	0m0,450s
+sys	0m0,030s
+check no. 9: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,544s
+user	0m0,400s
+sys	0m0,090s
+check no. 10: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,539s
+user	0m0,430s
+sys	0m0,050s
+check no. 11: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,529s
+user	0m0,430s
+sys	0m0,060s
+check no. 12: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,543s
+user	0m0,400s
+sys	0m0,090s
+check no. 13: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,542s
+user	0m0,410s
+sys	0m0,070s
+check no. 14: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,537s
+user	0m0,410s
+sys	0m0,070s
+check no. 15: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,537s
+user	0m0,400s
+sys	0m0,080s
+check no. 16: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,537s
+user	0m0,380s
+sys	0m0,100s
+check no. 17: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,534s
+user	0m0,420s
+sys	0m0,060s
+check no. 18: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,535s
+user	0m0,410s
+sys	0m0,070s
+check no. 19: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,533s
+user	0m0,420s
+sys	0m0,070s
+check no. 20: 3 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m6,537s
+user	0m0,420s
+sys	0m0,060s
+check no. 1: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,536s
+user	0m0,400s
+sys	0m0,080s
+check no. 2: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,531s
+user	0m0,400s
+sys	0m0,080s
+check no. 3: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,546s
+user	0m0,440s
+sys	0m0,050s
+check no. 4: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,545s
+user	0m0,410s
+sys	0m0,080s
+check no. 5: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,544s
+user	0m0,430s
+sys	0m0,060s
+check no. 6: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,532s
+user	0m0,410s
+sys	0m0,070s
+check no. 7: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,529s
+user	0m0,390s
+sys	0m0,090s
+check no. 8: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,539s
+user	0m0,400s
+sys	0m0,080s
+check no. 9: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,542s
+user	0m0,410s
+sys	0m0,080s
+check no. 10: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,545s
+user	0m0,430s
+sys	0m0,060s
+check no. 11: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,547s
+user	0m0,420s
+sys	0m0,070s
+check no. 12: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,538s
+user	0m0,440s
+sys	0m0,040s
+check no. 13: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,535s
+user	0m0,390s
+sys	0m0,100s
+check no. 14: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,534s
+user	0m0,420s
+sys	0m0,060s
+check no. 15: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,543s
+user	0m0,440s
+sys	0m0,050s
+check no. 16: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,552s
+user	0m0,410s
+sys	0m0,080s
+check no. 17: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,522s
+user	0m0,390s
+sys	0m0,080s
+check no. 18: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,536s
+user	0m0,430s
+sys	0m0,050s
+check no. 19: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,537s
+user	0m0,400s
+sys	0m0,080s
+check no. 20: 4 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m8,541s
+user	0m0,460s
+sys	0m0,030s
+check no. 1: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,539s
+user	0m0,420s
+sys	0m0,070s
+check no. 2: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,550s
+user	0m0,430s
+sys	0m0,060s
+check no. 3: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,538s
+user	0m0,420s
+sys	0m0,060s
+check no. 4: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,534s
+user	0m0,420s
+sys	0m0,070s
+check no. 5: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,564s
+user	0m0,400s
+sys	0m0,090s
+check no. 6: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,535s
+user	0m0,430s
+sys	0m0,050s
+check no. 7: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,554s
+user	0m0,410s
+sys	0m0,080s
+check no. 8: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,535s
+user	0m0,430s
+sys	0m0,050s
+check no. 9: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,558s
+user	0m0,400s
+sys	0m0,090s
+check no. 10: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,560s
+user	0m0,420s
+sys	0m0,080s
+check no. 11: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,561s
+user	0m0,420s
+sys	0m0,090s
+check no. 12: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,531s
+user	0m0,400s
+sys	0m0,070s
+check no. 13: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,527s
+user	0m0,400s
+sys	0m0,080s
+check no. 14: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,542s
+user	0m0,430s
+sys	0m0,060s
+check no. 15: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,556s
+user	0m0,430s
+sys	0m0,060s
+check no. 16: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,538s
+user	0m0,410s
+sys	0m0,070s
+check no. 17: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,540s
+user	0m0,400s
+sys	0m0,080s
+check no. 18: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,543s
+user	0m0,440s
+sys	0m0,050s
+check no. 19: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,579s
+user	0m0,420s
+sys	0m0,090s
+check no. 20: 5 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m10,561s
+user	0m0,460s
+sys	0m0,050s
+check no. 1: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,564s
+user	0m0,420s
+sys	0m0,090s
+check no. 2: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,532s
+user	0m0,440s
+sys	0m0,040s
+check no. 3: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,520s
+user	0m0,360s
+sys	0m0,110s
+check no. 4: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,561s
+user	0m0,440s
+sys	0m0,050s
+check no. 5: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,535s
+user	0m0,410s
+sys	0m0,060s
+check no. 6: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,547s
+user	0m0,440s
+sys	0m0,050s
+check no. 7: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,555s
+user	0m0,450s
+sys	0m0,050s
+check no. 8: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,541s
+user	0m0,400s
+sys	0m0,070s
+check no. 9: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,542s
+user	0m0,390s
+sys	0m0,100s
+check no. 10: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,542s
+user	0m0,450s
+sys	0m0,040s
+check no. 11: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,545s
+user	0m0,450s
+sys	0m0,030s
+check no. 12: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,559s
+user	0m0,410s
+sys	0m0,100s
+check no. 13: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,514s
+user	0m0,430s
+sys	0m0,030s
+check no. 14: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,546s
+user	0m0,380s
+sys	0m0,110s
+check no. 15: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,544s
+user	0m0,440s
+sys	0m0,050s
+check no. 16: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,525s
+user	0m0,400s
+sys	0m0,070s
+check no. 17: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,545s
+user	0m0,400s
+sys	0m0,090s
+check no. 18: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,542s
+user	0m0,410s
+sys	0m0,080s
+check no. 19: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,557s
+user	0m0,470s
+sys	0m0,040s
+check no. 20: 6 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m12,542s
+user	0m0,440s
+sys	0m0,050s
+check no. 1: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,543s
+user	0m0,400s
+sys	0m0,090s
+check no. 2: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,526s
+user	0m0,360s
+sys	0m0,110s
+check no. 3: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,555s
+user	0m0,420s
+sys	0m0,060s
+check no. 4: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,549s
+user	0m0,400s
+sys	0m0,090s
+check no. 5: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,543s
+user	0m0,390s
+sys	0m0,100s
+check no. 6: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,558s
+user	0m0,450s
+sys	0m0,050s
+check no. 7: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,580s
+user	0m0,460s
+sys	0m0,060s
+check no. 8: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,535s
+user	0m0,400s
+sys	0m0,080s
+check no. 9: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,522s
+user	0m0,390s
+sys	0m0,070s
+check no. 10: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,544s
+user	0m0,410s
+sys	0m0,080s
+check no. 11: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,566s
+user	0m0,450s
+sys	0m0,060s
+check no. 12: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,546s
+user	0m0,440s
+sys	0m0,050s
+check no. 13: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,544s
+user	0m0,390s
+sys	0m0,100s
+check no. 14: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,540s
+user	0m0,390s
+sys	0m0,110s
+check no. 15: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,516s
+user	0m0,430s
+sys	0m0,040s
+check no. 16: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,527s
+user	0m0,410s
+sys	0m0,070s
+check no. 17: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,542s
+user	0m0,450s
+sys	0m0,040s
+check no. 18: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,554s
+user	0m0,390s
+sys	0m0,110s
+check no. 19: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,534s
+user	0m0,410s
+sys	0m0,070s
+check no. 20: 7 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m14,549s
+user	0m0,420s
+sys	0m0,070s
+check no. 1: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,549s
+user	0m0,450s
+sys	0m0,040s
+check no. 2: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,549s
+user	0m0,430s
+sys	0m0,080s
+check no. 3: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,521s
+user	0m0,430s
+sys	0m0,040s
+check no. 4: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,525s
+user	0m0,440s
+sys	0m0,030s
+check no. 5: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,547s
+user	0m0,450s
+sys	0m0,040s
+check no. 6: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,519s
+user	0m0,410s
+sys	0m0,060s
+check no. 7: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,553s
+user	0m0,430s
+sys	0m0,060s
+check no. 8: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,525s
+user	0m0,420s
+sys	0m0,050s
+check no. 9: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,539s
+user	0m0,450s
+sys	0m0,040s
+check no. 10: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,551s
+user	0m0,420s
+sys	0m0,080s
+check no. 11: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,542s
+user	0m0,420s
+sys	0m0,070s
+check no. 12: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,540s
+user	0m0,430s
+sys	0m0,050s
+check no. 13: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,518s
+user	0m0,400s
+sys	0m0,060s
+check no. 14: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,552s
+user	0m0,410s
+sys	0m0,090s
+check no. 15: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,555s
+user	0m0,430s
+sys	0m0,070s
+check no. 16: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,540s
+user	0m0,410s
+sys	0m0,060s
+check no. 17: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,572s
+user	0m0,420s
+sys	0m0,090s
+check no. 18: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,546s
+user	0m0,390s
+sys	0m0,100s
+check no. 19: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,546s
+user	0m0,440s
+sys	0m0,040s
+check no. 20: 8 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m16,551s
+user	0m0,410s
+sys	0m0,080s
+check no. 1: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,549s
+user	0m0,450s
+sys	0m0,040s
+check no. 2: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,541s
+user	0m0,420s
+sys	0m0,060s
+check no. 3: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,522s
+user	0m0,380s
+sys	0m0,090s
+check no. 4: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,550s
+user	0m0,430s
+sys	0m0,060s
+check no. 5: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,570s
+user	0m0,450s
+sys	0m0,060s
+check no. 6: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,534s
+user	0m0,420s
+sys	0m0,050s
+check no. 7: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,567s
+user	0m0,450s
+sys	0m0,040s
+check no. 8: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,544s
+user	0m0,380s
+sys	0m0,100s
+check no. 9: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,535s
+user	0m0,440s
+sys	0m0,030s
+check no. 10: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,540s
+user	0m0,380s
+sys	0m0,100s
+check no. 11: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,546s
+user	0m0,380s
+sys	0m0,110s
+check no. 12: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,553s
+user	0m0,440s
+sys	0m0,050s
+check no. 13: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,523s
+user	0m0,400s
+sys	0m0,070s
+check no. 14: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,570s
+user	0m0,430s
+sys	0m0,070s
+check no. 15: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,538s
+user	0m0,430s
+sys	0m0,060s
+check no. 16: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,554s
+user	0m0,460s
+sys	0m0,030s
+check no. 17: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,549s
+user	0m0,440s
+sys	0m0,050s
+check no. 18: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,551s
+user	0m0,400s
+sys	0m0,090s
+check no. 19: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,552s
+user	0m0,440s
+sys	0m0,060s
+check no. 20: 9 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m18,514s
+user	0m0,400s
+sys	0m0,060s
+check no. 1: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,551s
+user	0m0,400s
+sys	0m0,080s
+check no. 2: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,567s
+user	0m0,460s
+sys	0m0,050s
+check no. 3: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,528s
+user	0m0,430s
+sys	0m0,050s
+check no. 4: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,568s
+user	0m0,470s
+sys	0m0,040s
+check no. 5: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,541s
+user	0m0,420s
+sys	0m0,070s
+check no. 6: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,548s
+user	0m0,450s
+sys	0m0,050s
+check no. 7: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,559s
+user	0m0,410s
+sys	0m0,080s
+check no. 8: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,577s
+user	0m0,380s
+sys	0m0,110s
+check no. 9: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,536s
+user	0m0,430s
+sys	0m0,050s
+check no. 10: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,548s
+user	0m0,400s
+sys	0m0,100s
+check no. 11: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,530s
+user	0m0,410s
+sys	0m0,080s
+check no. 12: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,526s
+user	0m0,430s
+sys	0m0,040s
+check no. 13: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,552s
+user	0m0,440s
+sys	0m0,060s
+check no. 14: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,551s
+user	0m0,450s
+sys	0m0,060s
+check no. 15: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,552s
+user	0m0,450s
+sys	0m0,060s
+check no. 16: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,562s
+user	0m0,400s
+sys	0m0,110s
+check no. 17: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,530s
+user	0m0,470s
+sys	0m0,010s
+check no. 18: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,559s
+user	0m0,420s
+sys	0m0,080s
+check no. 19: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,528s
+user	0m0,420s
+sys	0m0,070s
+check no. 20: 10 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m20,552s
+user	0m0,410s
+sys	0m0,090s
+check no. 1: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,551s
+user	0m0,420s
+sys	0m0,080s
+check no. 2: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,553s
+user	0m0,410s
+sys	0m0,090s
+check no. 3: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,521s
+user	0m0,430s
+sys	0m0,040s
+check no. 4: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,526s
+user	0m0,400s
+sys	0m0,070s
+check no. 5: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,550s
+user	0m0,400s
+sys	0m0,100s
+check no. 6: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,557s
+user	0m0,400s
+sys	0m0,100s
+check no. 7: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,547s
+user	0m0,450s
+sys	0m0,050s
+check no. 8: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,557s
+user	0m0,450s
+sys	0m0,060s
+check no. 9: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,555s
+user	0m0,430s
+sys	0m0,070s
+check no. 10: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,535s
+user	0m0,420s
+sys	0m0,060s
+check no. 11: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,558s
+user	0m0,430s
+sys	0m0,070s
+check no. 12: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,551s
+user	0m0,410s
+sys	0m0,090s
+check no. 13: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,548s
+user	0m0,460s
+sys	0m0,040s
+check no. 14: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,552s
+user	0m0,430s
+sys	0m0,070s
+check no. 15: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,543s
+user	0m0,430s
+sys	0m0,070s
+check no. 16: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,545s
+user	0m0,420s
+sys	0m0,070s
+check no. 17: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,552s
+user	0m0,400s
+sys	0m0,100s
+check no. 18: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,526s
+user	0m0,430s
+sys	0m0,040s
+check no. 19: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,556s
+user	0m0,420s
+sys	0m0,090s
+check no. 20: 11 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m22,544s
+user	0m0,430s
+sys	0m0,060s
+check no. 1: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,550s
+user	0m0,420s
+sys	0m0,080s
+check no. 2: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,558s
+user	0m0,390s
+sys	0m0,110s
+check no. 3: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,551s
+user	0m0,440s
+sys	0m0,070s
+check no. 4: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,546s
+user	0m0,430s
+sys	0m0,070s
+check no. 5: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,553s
+user	0m0,430s
+sys	0m0,070s
+check no. 6: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,557s
+user	0m0,410s
+sys	0m0,100s
+check no. 7: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,544s
+user	0m0,410s
+sys	0m0,080s
+check no. 8: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,583s
+user	0m0,450s
+sys	0m0,060s
+check no. 9: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,542s
+user	0m0,430s
+sys	0m0,060s
+check no. 10: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,568s
+user	0m0,450s
+sys	0m0,060s
+check no. 11: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,562s
+user	0m0,430s
+sys	0m0,080s
+check no. 12: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,536s
+user	0m0,390s
+sys	0m0,090s
+check no. 13: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,560s
+user	0m0,460s
+sys	0m0,040s
+check no. 14: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,549s
+user	0m0,450s
+sys	0m0,040s
+check no. 15: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,576s
+user	0m0,480s
+sys	0m0,040s
+check no. 16: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,532s
+user	0m0,390s
+sys	0m0,080s
+check no. 17: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,551s
+user	0m0,410s
+sys	0m0,090s
+check no. 18: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,559s
+user	0m0,450s
+sys	0m0,050s
+check no. 19: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,555s
+user	0m0,450s
+sys	0m0,060s
+check no. 20: 12 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m24,556s
+user	0m0,430s
+sys	0m0,090s
+check no. 1: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,537s
+user	0m0,410s
+sys	0m0,080s
+check no. 2: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,569s
+user	0m0,420s
+sys	0m0,090s
+check no. 3: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,560s
+user	0m0,410s
+sys	0m0,100s
+check no. 4: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,537s
+user	0m0,420s
+sys	0m0,060s
+check no. 5: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,552s
+user	0m0,410s
+sys	0m0,090s
+check no. 6: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,575s
+user	0m0,450s
+sys	0m0,060s
+check no. 7: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,523s
+user	0m0,370s
+sys	0m0,100s
+check no. 8: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,558s
+user	0m0,430s
+sys	0m0,080s
+check no. 9: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,557s
+user	0m0,450s
+sys	0m0,060s
+check no. 10: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,530s
+user	0m0,360s
+sys	0m0,110s
+check no. 11: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,564s
+user	0m0,430s
+sys	0m0,090s
+check no. 12: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,564s
+user	0m0,430s
+sys	0m0,080s
+check no. 13: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,563s
+user	0m0,370s
+sys	0m0,140s
+check no. 14: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,572s
+user	0m0,490s
+sys	0m0,020s
+check no. 15: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,553s
+user	0m0,390s
+sys	0m0,100s
+check no. 16: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,568s
+user	0m0,420s
+sys	0m0,090s
+check no. 17: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,563s
+user	0m0,400s
+sys	0m0,100s
+check no. 18: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,507s
+user	0m0,380s
+sys	0m0,080s
+check no. 19: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,516s
+user	0m0,390s
+sys	0m0,080s
+check no. 20: 13 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m26,562s
+user	0m0,440s
+sys	0m0,070s
+check no. 1: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,534s
+user	0m0,380s
+sys	0m0,100s
+check no. 2: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,539s
+user	0m0,420s
+sys	0m0,070s
+check no. 3: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,527s
+user	0m0,390s
+sys	0m0,090s
+check no. 4: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,562s
+user	0m0,410s
+sys	0m0,110s
+check no. 5: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,532s
+user	0m0,390s
+sys	0m0,090s
+check no. 6: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,555s
+user	0m0,450s
+sys	0m0,060s
+check no. 7: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,560s
+user	0m0,450s
+sys	0m0,060s
+check no. 8: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,568s
+user	0m0,450s
+sys	0m0,060s
+check no. 9: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,559s
+user	0m0,440s
+sys	0m0,070s
+check no. 10: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,556s
+user	0m0,430s
+sys	0m0,070s
+check no. 11: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,533s
+user	0m0,390s
+sys	0m0,090s
+check no. 12: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,540s
+user	0m0,400s
+sys	0m0,080s
+check no. 13: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,558s
+user	0m0,450s
+sys	0m0,050s
+check no. 14: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,554s
+user	0m0,440s
+sys	0m0,060s
+check no. 15: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,559s
+user	0m0,440s
+sys	0m0,070s
+check no. 16: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,540s
+user	0m0,400s
+sys	0m0,090s
+check no. 17: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,566s
+user	0m0,460s
+sys	0m0,060s
+check no. 18: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,557s
+user	0m0,420s
+sys	0m0,080s
+check no. 19: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,565s
+user	0m0,430s
+sys	0m0,080s
+check no. 20: 14 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m28,540s
+user	0m0,430s
+sys	0m0,060s
+check no. 1: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,530s
+user	0m0,420s
+sys	0m0,070s
+check no. 2: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,533s
+user	0m0,420s
+sys	0m0,070s
+check no. 3: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,560s
+user	0m0,430s
+sys	0m0,090s
+check no. 4: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,593s
+user	0m0,470s
+sys	0m0,060s
+check no. 5: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,788s
+user	0m0,430s
+sys	0m0,080s
+check no. 6: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,548s
+user	0m0,420s
+sys	0m0,070s
+check no. 7: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,573s
+user	0m0,460s
+sys	0m0,050s
+check no. 8: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,564s
+user	0m0,430s
+sys	0m0,080s
+check no. 9: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,574s
+user	0m0,420s
+sys	0m0,100s
+check no. 10: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,525s
+user	0m0,410s
+sys	0m0,070s
+check no. 11: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,560s
+user	0m0,420s
+sys	0m0,090s
+check no. 12: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,544s
+user	0m0,440s
+sys	0m0,050s
+check no. 13: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,531s
+user	0m0,450s
+sys	0m0,030s
+check no. 14: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,557s
+user	0m0,410s
+sys	0m0,100s
+check no. 15: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,539s
+user	0m0,430s
+sys	0m0,070s
+check no. 16: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,565s
+user	0m0,450s
+sys	0m0,070s
+check no. 17: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,563s
+user	0m0,430s
+sys	0m0,090s
+check no. 18: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,573s
+user	0m0,430s
+sys	0m0,090s
+check no. 19: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,538s
+user	0m0,350s
+sys	0m0,130s
+check no. 20: 15 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m30,549s
+user	0m0,460s
+sys	0m0,040s
+check no. 1: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,554s
+user	0m0,460s
+sys	0m0,050s
+check no. 2: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,544s
+user	0m0,410s
+sys	0m0,090s
+check no. 3: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,535s
+user	0m0,440s
+sys	0m0,050s
+check no. 4: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,562s
+user	0m0,490s
+sys	0m0,030s
+check no. 5: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,566s
+user	0m0,470s
+sys	0m0,060s
+check no. 6: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,535s
+user	0m0,430s
+sys	0m0,060s
+check no. 7: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,549s
+user	0m0,440s
+sys	0m0,060s
+check no. 8: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,557s
+user	0m0,420s
+sys	0m0,100s
+check no. 9: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,552s
+user	0m0,410s
+sys	0m0,090s
+check no. 10: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,557s
+user	0m0,480s
+sys	0m0,040s
+check no. 11: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,575s
+user	0m0,500s
+sys	0m0,030s
+check no. 12: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,538s
+user	0m0,400s
+sys	0m0,090s
+check no. 13: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,540s
+user	0m0,440s
+sys	0m0,060s
+check no. 14: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,558s
+user	0m0,390s
+sys	0m0,120s
+check no. 15: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,537s
+user	0m0,420s
+sys	0m0,070s
+check no. 16: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,570s
+user	0m0,470s
+sys	0m0,050s
+check no. 17: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,564s
+user	0m0,430s
+sys	0m0,090s
+check no. 18: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,539s
+user	0m0,390s
+sys	0m0,100s
+check no. 19: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,556s
+user	0m0,430s
+sys	0m0,080s
+check no. 20: 16 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m32,542s
+user	0m0,430s
+sys	0m0,060s
+check no. 1: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,537s
+user	0m0,410s
+sys	0m0,090s
+check no. 2: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,561s
+user	0m0,400s
+sys	0m0,120s
+check no. 3: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,561s
+user	0m0,460s
+sys	0m0,060s
+check no. 4: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,565s
+user	0m0,440s
+sys	0m0,080s
+check no. 5: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,523s
+user	0m0,400s
+sys	0m0,080s
+check no. 6: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,553s
+user	0m0,470s
+sys	0m0,030s
+check no. 7: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,535s
+user	0m0,410s
+sys	0m0,080s
+check no. 8: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,563s
+user	0m0,490s
+sys	0m0,030s
+check no. 9: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,540s
+user	0m0,400s
+sys	0m0,100s
+check no. 10: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,565s
+user	0m0,470s
+sys	0m0,050s
+check no. 11: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,555s
+user	0m0,420s
+sys	0m0,090s
+check no. 12: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,542s
+user	0m0,430s
+sys	0m0,070s
+check no. 13: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,566s
+user	0m0,440s
+sys	0m0,080s
+check no. 14: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,540s
+user	0m0,390s
+sys	0m0,100s
+check no. 15: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,581s
+user	0m0,460s
+sys	0m0,060s
+check no. 16: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,559s
+user	0m0,430s
+sys	0m0,080s
+check no. 17: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,563s
+user	0m0,410s
+sys	0m0,120s
+check no. 18: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,538s
+user	0m0,450s
+sys	0m0,040s
+check no. 19: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,561s
+user	0m0,410s
+sys	0m0,110s
+check no. 20: 17 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m34,536s
+user	0m0,450s
+sys	0m0,040s
+check no. 1: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,566s
+user	0m0,420s
+sys	0m0,100s
+check no. 2: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,565s
+user	0m0,450s
+sys	0m0,070s
+check no. 3: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,545s
+user	0m0,390s
+sys	0m0,110s
+check no. 4: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,540s
+user	0m0,440s
+sys	0m0,060s
+check no. 5: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,550s
+user	0m0,450s
+sys	0m0,070s
+check no. 6: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,533s
+user	0m0,450s
+sys	0m0,040s
+check no. 7: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,526s
+user	0m0,340s
+sys	0m0,150s
+check no. 8: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,531s
+user	0m0,400s
+sys	0m0,090s
+check no. 9: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,567s
+user	0m0,420s
+sys	0m0,100s
+check no. 10: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,548s
+user	0m0,430s
+sys	0m0,070s
+check no. 11: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,563s
+user	0m0,440s
+sys	0m0,080s
+check no. 12: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,566s
+user	0m0,460s
+sys	0m0,060s
+check no. 13: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,544s
+user	0m0,410s
+sys	0m0,100s
+check no. 14: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,563s
+user	0m0,420s
+sys	0m0,100s
+check no. 15: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,570s
+user	0m0,480s
+sys	0m0,050s
+check no. 16: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,554s
+user	0m0,430s
+sys	0m0,080s
+check no. 17: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,517s
+user	0m0,400s
+sys	0m0,080s
+check no. 18: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,567s
+user	0m0,390s
+sys	0m0,130s
+check no. 19: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,549s
+user	0m0,420s
+sys	0m0,090s
+check no. 20: 18 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m36,553s
+user	0m0,370s
+sys	0m0,140s
+check no. 1: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,556s
+user	0m0,390s
+sys	0m0,130s
+check no. 2: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,541s
+user	0m0,430s
+sys	0m0,070s
+check no. 3: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,562s
+user	0m0,400s
+sys	0m0,120s
+check no. 4: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,567s
+user	0m0,480s
+sys	0m0,050s
+check no. 5: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,567s
+user	0m0,450s
+sys	0m0,080s
+check no. 6: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,525s
+user	0m0,370s
+sys	0m0,110s
+check no. 7: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,543s
+user	0m0,400s
+sys	0m0,100s
+check no. 8: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,545s
+user	0m0,420s
+sys	0m0,090s
+check no. 9: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,572s
+user	0m0,440s
+sys	0m0,100s
+check no. 10: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,540s
+user	0m0,440s
+sys	0m0,060s
+check no. 11: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,564s
+user	0m0,450s
+sys	0m0,070s
+check no. 12: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,570s
+user	0m0,480s
+sys	0m0,050s
+check no. 13: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,544s
+user	0m0,400s
+sys	0m0,100s
+check no. 14: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,571s
+user	0m0,440s
+sys	0m0,080s
+check no. 15: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,545s
+user	0m0,430s
+sys	0m0,060s
+check no. 16: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,538s
+user	0m0,380s
+sys	0m0,120s
+check no. 17: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,568s
+user	0m0,440s
+sys	0m0,100s
+check no. 18: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,567s
+user	0m0,420s
+sys	0m0,110s
+check no. 19: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,565s
+user	0m0,430s
+sys	0m0,100s
+check no. 20: 19 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m38,565s
+user	0m0,460s
+sys	0m0,060s
+check no. 1: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,555s
+user	0m0,450s
+sys	0m0,060s
+check no. 2: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,556s
+user	0m0,430s
+sys	0m0,080s
+check no. 3: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,534s
+user	0m0,410s
+sys	0m0,080s
+check no. 4: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,547s
+user	0m0,480s
+sys	0m0,030s
+check no. 5: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,550s
+user	0m0,440s
+sys	0m0,080s
+check no. 6: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,584s
+user	0m0,430s
+sys	0m0,100s
+check no. 7: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,520s
+user	0m0,370s
+sys	0m0,100s
+check no. 8: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,518s
+user	0m0,370s
+sys	0m0,100s
+check no. 9: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,533s
+user	0m0,430s
+sys	0m0,060s
+check no. 10: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,557s
+user	0m0,400s
+sys	0m0,110s
+check no. 11: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,558s
+user	0m0,460s
+sys	0m0,060s
+check no. 12: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,558s
+user	0m0,460s
+sys	0m0,060s
+check no. 13: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,558s
+user	0m0,420s
+sys	0m0,100s
+check no. 14: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,562s
+user	0m0,450s
+sys	0m0,070s
+check no. 15: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,525s
+user	0m0,370s
+sys	0m0,110s
+check no. 16: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,543s
+user	0m0,440s
+sys	0m0,060s
+check no. 17: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,546s
+user	0m0,410s
+sys	0m0,090s
+check no. 18: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,565s
+user	0m0,430s
+sys	0m0,090s
+check no. 19: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,549s
+user	0m0,410s
+sys	0m0,100s
+check no. 20: 20 milliseconds ParkNano
+Enter number of steps (width): Enter value for STEP_PAUSE: time test program
+
+real	0m40,575s
+user	0m0,450s
+sys	0m0,080s
