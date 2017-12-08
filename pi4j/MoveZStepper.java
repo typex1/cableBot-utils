@@ -122,6 +122,11 @@ public class MoveZStepper {
       Gpio.digitalWrite(LEFT_STEPPER01, 0);
       Gpio.digitalWrite(LEFT_STEPPER02, 0);
       Gpio.digitalWrite(LEFT_STEPPER04, 0);
+
+      Gpio.digitalWrite(RIGHT_STEPPER03, 0);
+      Gpio.digitalWrite(RIGHT_STEPPER01, 0);
+      Gpio.digitalWrite(RIGHT_STEPPER02, 0);
+      Gpio.digitalWrite(RIGHT_STEPPER04, 0);
     }
 
     public static void main(String args[]) throws InterruptedException {
@@ -140,8 +145,9 @@ public class MoveZStepper {
             System.out.println(" ==>> GPIO SETUP FAILED");
             return;
         }
-	// sleep 1 second after wiringPi init:
-	Thread.sleep(1000);
+	// sleep some time after wiringPi init:
+	//Thread.sleep(1000);
+	sleepMillis(200);
 
         // set relevant GPIO as outputs
         GpioUtil.export(Z_STEPPER01, GpioUtil.DIRECTION_OUT);
@@ -153,8 +159,9 @@ public class MoveZStepper {
         GpioUtil.export(Z_STEPPER04, GpioUtil.DIRECTION_OUT);
         Gpio.pinMode(Z_STEPPER04, Gpio.OUTPUT);
 
-	// sleep 1 second after pinMode init:
-	Thread.sleep(1000);
+	// sleep some time after pinMode init:
+	//Thread.sleep(1000);
+	sleepMillis(200);
 
 
         if (width > 0){
