@@ -207,6 +207,75 @@ public class MoveRLZStepper {
       }
     }
 
+    //half step mode:
+    static void makeStepZHalfStep(int direction) throws InterruptedException {
+      StepZ += direction;
+
+      if(StepZ > 7){
+        StepZ = 0;
+      }
+      if(StepZ < 0){
+        StepZ = 7;
+      }
+
+      if(StepZ == 0){
+        Gpio.digitalWrite(Z_STEPPER01, 1);
+        Gpio.digitalWrite(Z_STEPPER03, 0);
+        Gpio.digitalWrite(Z_STEPPER02, 0);
+        Gpio.digitalWrite(Z_STEPPER04, 0);
+        sleepMillis(STEP_PAUSE);
+      }
+      if(StepZ == 1){
+        Gpio.digitalWrite(Z_STEPPER01, 1);
+        Gpio.digitalWrite(Z_STEPPER03, 1);
+        Gpio.digitalWrite(Z_STEPPER02, 0);
+        Gpio.digitalWrite(Z_STEPPER04, 0);
+        sleepMillis(STEP_PAUSE);
+      }
+      if(StepZ == 2){
+        Gpio.digitalWrite(Z_STEPPER01, 0);
+        Gpio.digitalWrite(Z_STEPPER03, 1);
+        Gpio.digitalWrite(Z_STEPPER02, 0);
+        Gpio.digitalWrite(Z_STEPPER04, 0);
+        sleepMillis(STEP_PAUSE);
+      }
+      if(StepZ == 3){
+        Gpio.digitalWrite(Z_STEPPER01, 0);
+        Gpio.digitalWrite(Z_STEPPER03, 1);
+        Gpio.digitalWrite(Z_STEPPER02, 1);
+        Gpio.digitalWrite(Z_STEPPER04, 0);
+        sleepMillis(STEP_PAUSE);
+      }
+      if(StepZ == 4){
+        Gpio.digitalWrite(Z_STEPPER01, 0);
+        Gpio.digitalWrite(Z_STEPPER03, 0);
+        Gpio.digitalWrite(Z_STEPPER02, 1);
+        Gpio.digitalWrite(Z_STEPPER04, 0);
+        sleepMillis(STEP_PAUSE);
+      }
+      if(StepZ == 5){
+        Gpio.digitalWrite(Z_STEPPER01, 0);
+        Gpio.digitalWrite(Z_STEPPER03, 0);
+        Gpio.digitalWrite(Z_STEPPER02, 1);
+        Gpio.digitalWrite(Z_STEPPER04, 1);
+        sleepMillis(STEP_PAUSE);
+      }
+      if(StepZ == 6){
+        Gpio.digitalWrite(Z_STEPPER01, 0);
+        Gpio.digitalWrite(Z_STEPPER03, 0);
+        Gpio.digitalWrite(Z_STEPPER02, 0);
+        Gpio.digitalWrite(Z_STEPPER04, 1);
+        sleepMillis(STEP_PAUSE);
+      }
+      if(StepZ == 7){
+        Gpio.digitalWrite(Z_STEPPER01, 1);
+        Gpio.digitalWrite(Z_STEPPER03, 0);
+        Gpio.digitalWrite(Z_STEPPER02, 0);
+        Gpio.digitalWrite(Z_STEPPER04, 1);
+        sleepMillis(STEP_PAUSE);
+      }
+    }
+
     static void motorsOff(){
       Gpio.digitalWrite(Z_STEPPER01, 0);
       Gpio.digitalWrite(Z_STEPPER02, 0);
@@ -228,9 +297,9 @@ public class MoveRLZStepper {
         //int width = 1000;
 	Scanner scanner = new Scanner(System.in);
         scanner.useDelimiter("\\n");
-	System.out.print("Enter 1,2,3 for stepper R,L,Z (stepper): ");
+	System.out.print("Enter 1,2,3,4 for stepper R,L,Z (4=half step Z): ");
 	int stepper = scanner.nextInt();
-	System.out.print("Enter number of steps (width): ");
+	System.out.print("Enter number of steps (neg=clockw, pos=counterclock): ");
 	int width = scanner.nextInt();
 	System.out.print("Enter value for STEP_PAUSE: ");
 	STEP_PAUSE = scanner.nextInt();
@@ -288,6 +357,9 @@ public class MoveRLZStepper {
 			if(stepper == 3){
           			makeStepZ(-1);
 			}
+			if(stepper == 4){
+          			makeStepZHalfStep(-1);
+			}
 		}
         }else{
         	for(int i=width; i < 0; i++){
@@ -299,6 +371,9 @@ public class MoveRLZStepper {
 			}
 			if(stepper == 3){
           			makeStepZ(1);
+			}
+			if(stepper == 4){
+          			makeStepZHalfStep(1);
 			}
         	}
 	}
